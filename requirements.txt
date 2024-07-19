@@ -1,4 +1,4 @@
-absl-py @ file:///C:/b/abs_14wchyjaia/croot/absl-py_1714140489450/work
+absl-py 
 aiohttp @ file:///C:/b/abs_8860tt1424/croot/aiohttp_1715108828392/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 altair==5.3.0
