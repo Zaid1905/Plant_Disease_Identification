@@ -127,7 +127,7 @@ PySocks
 python-dateutil
 python-json-logger
 pytz
-pywin32==305.1
+pywin32
 pywinpty==2.0.10
 PyYAML
 pyzmq
