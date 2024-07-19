@@ -166,4 +166,3 @@ multipledispatch==0.6.0
 mypy==1.10.0
 mypy-extensions==1.0.0
 namex==0.0.8
-navigator-updater==0.5.1
