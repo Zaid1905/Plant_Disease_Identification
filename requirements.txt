@@ -1,12 +1,4 @@
 absl-py==2.1.0
-aext-assistant-server==4.0.15
-aext-core==4.0.15
-aext-core-server==4.0.15
-aext-panels==4.0.15
-aext-panels-server==4.0.15
-aext-share-notebook==4.0.15
-aext-share-notebook-server==4.0.15
-aext-shared==4.0.15
 aiobotocore==2.12.3
 aiohttp==3.9.5
 aioitertools==0.7.1
@@ -194,4 +186,3 @@ mypy==1.10.0
 mypy-extensions==1.0.0
 namex==0.0.8
 navigator-updater==0.5.1
-nbclient==0.
